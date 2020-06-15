@@ -1,0 +1,2 @@
+rootProject.name='AppReader'
+include ':app'
